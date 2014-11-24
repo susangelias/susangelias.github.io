@@ -2,6 +2,8 @@ Spoken Guides
 =============
 
 
+<video src="Spoken Guides Web Video.mp4" poster="Poster.jpg" width="320" height="200" controls preload></video>
+
 ## Features
 
 ####* Spoken Guides are eyes and hands-free instructions.  A guide will speak the first instruction then listen for your verbal command of "Next" before speaking the next instruction.  Spoken Guides will also respond to the commands of "Repeat" or "Go Back", allowing movement through a set of instructions with verbal commands.
